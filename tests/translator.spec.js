@@ -296,7 +296,7 @@ const testData = {
       name: 'Extensions',
       input:
         ' mama oyaata  evvaa note.exe zip file eka - eeka extract karaganna',
-      expected: ' මම ඔයාට  එව්වා note.එxඑ zip file එක - ඒක extract කරගන්න',
+      expected: ' මම ඔයාට  එව්වා note.exe zip file එක - ඒක extract කරගන්න',
       length: 'M',
       issue: 'Extensions may not convert',
     },

@@ -30,8 +30,10 @@ Follow these steps to set up and run the test suite:
 git clone https://github.com/LeshanieM/Playwright-Test-Cases.git
 
 ```
-Open the folder in VS code
 
+```bash
+Extract the zip file and Open it in VS code
+```
 #### Step 2: Install Dependencies
 
 Install all required npm packages including Playwright:

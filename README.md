@@ -1,4 +1,4 @@
-# Singlish to Sinhala Translation Testing - ITPM Assignment 1
+# 📚 Singlish to Sinhala Translation Testing - ITPM Assignment 1 
 
 This repo has test cases for Singlish -> Sinhala for website [https://www.swifttranslator.com/](https://www.swifttranslator.com/) using Playwright automation framework.
 
@@ -32,11 +32,11 @@ git clone https://github.com/LeshanieM/Playwright-Test-Cases.git
 ```
 
 ```bash
-Extract the zip file and Open it in VS code
+Open project in VS code
 ```
 #### Step 2: Install Dependencies
 
-Install all required npm packages including Playwright:
+Inside the terminal, install all required npm packages including Playwright:
 
 ```bash
 npm install

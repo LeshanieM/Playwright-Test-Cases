@@ -27,9 +27,10 @@ Follow these steps to set up and run the test suite:
 #### Step 1: Clone the Repository
 
 ```bash
-git clone <YOUR_REPOSITORY_URL>
-cd <REPOSITORY_FOLDER_NAME>
+git clone https://github.com/LeshanieM/Playwright-Test-Cases.git
+
 ```
+Open the folder in VS code
 
 #### Step 2: Install Dependencies
 
@@ -42,10 +43,8 @@ npm install
 This command will:
 
 - Install Playwright and its dependencies
-- Install all other required packages listed in `package.json`
-- Set up the project structure
 
-#### Step 3: Install Playwright Browsers
+#### Step 3: Install Playwright Browsers (Only if you haven't download them earlier)
 
 Playwright requires browser binaries to run tests. Install them using:
 
@@ -105,12 +104,6 @@ npx playwright install
 - Check if the website https://www.swifttranslator.com/ is accessible
 - Increase timeout values in `playwright.config.js` if needed
 
-**4. Permission errors on Linux/Mac**
-
-```bash
-# Solution: Use sudo for browser installation
-sudo npx playwright install
-```
 
 ## 📚 Resources
 
